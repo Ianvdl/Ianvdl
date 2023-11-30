@@ -58,4 +58,4 @@ My blog, mostly covering technical matters, is hosted at [ivdl.co.za](https://iv
 
 ### Getting in touch
 
-I am currently based in South Africa. If you'd like to get in touch, send me an email at ian@ivdl.co.za.
+I am currently based in the Netherlands 🇳🇱. If you'd like to get in touch, send me an email at ian@ivdl.co.za.
