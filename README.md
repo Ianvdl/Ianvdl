@@ -28,6 +28,7 @@ I have a further interest in machine learning, and completed my master’s degre
     <img height="30" src="./assets/bash-original.svg" hspace="5" >
     <img height="30" src="./assets/bitbucket-original.svg" hspace="5" >
     <img height="30" src="./assets/confluence-original.svg" hspace="5" >
+    <img height="30" src="./assets/c-original.svg" hspace="5" >
     <img height="30" src="./assets/csharp-original.svg" hspace="5" >
     <img height="30" src="./assets/css3-original.svg" hspace="5" >
     <img height="30" src="./assets/debian-original.svg" hspace="5" >
@@ -40,9 +41,11 @@ I have a further interest in machine learning, and completed my master’s degre
     <img height="30" src="./assets/jira-original.svg" hspace="5" >
     <img height="30" src="./assets/latex-original.svg" hspace="5" >
     <img height="30" src="./assets/markdown-original.svg" hspace="5" >
+    <img height="30" src="./assets/matlab-original.svg" hspace="5" >
     <img height="30" src="./assets/mysql-original-wordmark.svg" hspace="5" >
     <img height="30" src="./assets/neo4j-original-wordmark.svg" hspace="5" >
     <img height="30" src="./assets/nginx-original.svg" hspace="5" >
+    <img height="30" src="./assets/numpy-original.svg" hspace="5" >
     <img height="30" src="./assets/oracle-original.svg" hspace="5" >
     <img height="30" src="./assets/pandas-original.svg" hspace="5" >
     <img height="30" src="./assets/powerbi-original.svg" hspace="5" >
@@ -51,9 +54,11 @@ I have a further interest in machine learning, and completed my master’s degre
     <img height="30" src="./assets/sqlite-original-wordmark.svg" hspace="5" >
     <img height="30" src="./assets/tomcat-original.svg" hspace="5" >
     <img height="30" src="./assets/trello-plain.svg" hspace="5" >
+    <img height="30" src="./assets/ubuntu-plain.svg" hspace="5" >
     <img height="30" src="./assets/uwsgi-original.svg" hspace="5" >
     <img height="30" src="./assets/vim-original.svg" hspace="5" >
     <img height="30" src="./assets/visualstudio-plain.svg" hspace="5" >
+    <img height="30" src="./assets/wordpress-plain.svg" hspace="5" >
 </p>
 
 ### Profiles elsewhere
