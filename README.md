@@ -1,13 +1,15 @@
 <p>
-    <img height="100" src="./assets/postgresql-original.svg" hspace="20" >
-    <img height="100" src="./assets/python-original.svg" hspace="20" >
-    <img height="100" src="./assets/debian-original.svg" hspace="20" >            
-    <img height="100" src="./assets/django-plain-wordmark.svg" hspace="20" >
+    <img height="50" src="./assets/postgresql-original.svg" hspace="20" >
+    <img height="50" src="./assets/python-original.svg" hspace="20" >
+    <img height="50" src="./assets/debian-original.svg" hspace="20" >            
+    <img height="50" src="./assets/django-plain-wordmark.svg" hspace="20" >
 </p>
 
 ### About me
 
-Hi, I’m Ian van der Linde (hence @Ianvdl and [ivdl.co.za](https://ivdl.co.za)). In my current role, I am responsible for full stack Python/Django software development (including all aspects of HTML/CSS/JS on the frontend), high performance PostgreSQL database administration and Linux system administration (on-premises in the form of bare-metal and containerised applications, and Microsoft Azure cloud services). At the moment I'm working with colleagues to establish patent analysis as a key function of our team.
+Hi, I’m Ian van der Linde (hence @Ianvdl and [ivdl.co.za](https://ivdl.co.za)). In my current role, I am responsible for running PostgreSQL 24/7 for downtime-sensitive applications in high availability, and working on automation and CI/CD for infrastructure using Puppet and Ansible, and performance monitoring and tuning using custom PostgreSQL extensions and PowerBI. 
+
+Previously, I was responsible for full stack Python/Django software development (including all aspects of HTML/CSS/JS on the frontend), high performance PostgreSQL database administration and Linux system administration (on-premises in the form of bare-metal and containerised applications, and Microsoft Azure cloud services). I also worked with colleagues to establish patent analysis as a key function of the team.
 
 I am a certified Linux systems administrator and software developer with experience in automation through version control (Git and SVN), orchestration (Rundeck and Ansible) and configuration management (Puppet), programming mainly in C# with ASP.NET and Python with Django. I have also worked in a high performance computing environment in all areas of hardware and software installation and configuration.
 
