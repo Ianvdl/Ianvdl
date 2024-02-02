@@ -22,6 +22,7 @@ I have a further interest in machine learning, and completed my master’s degre
 ### Other experience and tooling
 <p>
     <img height="30" src="./assets/anaconda-original.svg" hspace="5" >
+    <img height="30" src="./assets/ansible-original-wordmark.svg" hspace="5" >
     <img height="30" src="./assets/apache-original.svg" hspace="5" >
     <img height="30" src="./assets/azure-original.svg" hspace="5" >
     <img height="30" src="./assets/bash-original.svg" hspace="5" >
@@ -44,6 +45,7 @@ I have a further interest in machine learning, and completed my master’s degre
     <img height="30" src="./assets/nginx-original.svg" hspace="5" >
     <img height="30" src="./assets/oracle-original.svg" hspace="5" >
     <img height="30" src="./assets/pandas-original.svg" hspace="5" >
+    <img height="30" src="./assets/powerbi-original.svg" hspace="5" >
     <img height="30" src="./assets/prometheus-original.svg" hspace="5" >
     <img height="30" src="./assets/r-original.svg" hspace="5" >
     <img height="30" src="./assets/sqlite-original-wordmark.svg" hspace="5" >
