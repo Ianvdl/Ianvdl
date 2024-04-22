@@ -9,11 +9,13 @@
 
 [ivdl.co.za](https://ivdl.co.za/) 💻 Read my blog
 
-[LinkedIn](https://www.linkedin.com/in/ivdl/) 🧳 Connect with me!
+[LinkedIn](https://www.linkedin.com/in/ivdl/) 🧳 Connect with me
 
 [ORCiD](https://orcid.org/0000-0001-9232-9599) 📝 Read my research
 
 [Shutterstock](https://www.shutterstock.com/g/Ian+van+der+Linde) 📸 View my photos
+
+ian@ivdl.co.za 📧 Contact me
 
 ### About me
 
