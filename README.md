@@ -1,6 +1,5 @@
-# Ian van der Linde
-
-<i> PostgreSQL DBA • Linux systems engineer • Python developer </i>
+<h1><center>Ian van der Linde</center></h1>
+<center>PostgreSQL • Linux • Python</center>
 
 ### Profiles elsewhere
 
