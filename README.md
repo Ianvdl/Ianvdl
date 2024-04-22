@@ -5,6 +5,16 @@
     <img height="50" src="./assets/django-plain-wordmark.svg" hspace="20" >
 </p>
 
+### Profiles elsewhere
+
+[ivdl.co.za](https://ivdl.co.za/) 💻 Read my blog
+
+[LinkedIn](https://www.linkedin.com/in/ivdl/) 🧳 Connect with me!
+
+[ORCiD](https://orcid.org/0000-0001-9232-9599) 📝 Read my research
+
+[Shutterstock](https://www.shutterstock.com/g/Ian+van+der+Linde) 📸 View my photos
+
 ### About me
 
 Hi, I’m Ian van der Linde (hence @Ianvdl and [ivdl.co.za](https://ivdl.co.za)). In my current role, I am responsible for running PostgreSQL 24/7 for downtime-sensitive applications in high availability, and working on automation and CI/CD for infrastructure using Puppet and Ansible, and performance monitoring and tuning using custom PostgreSQL extensions and PowerBI. 
