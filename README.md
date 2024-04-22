@@ -1,9 +1,6 @@
-<p>
-    <img height="50" src="./assets/postgresql-original.svg" hspace="20" >
-    <img height="50" src="./assets/python-original.svg" hspace="20" >
-    <img height="50" src="./assets/debian-original.svg" hspace="20" >            
-    <img height="50" src="./assets/django-plain-wordmark.svg" hspace="20" >
-</p>
+# Ian van der Linde
+
+<i> PostgreSQL DBA • Linux systems engineer • Python developer </i>
 
 ### Profiles elsewhere
 
