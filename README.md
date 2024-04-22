@@ -73,10 +73,6 @@ I have a further interest in machine learning, and completed my master’s degre
     <img height="30" src="./assets/wordpress-plain.svg" hspace="5" >
 </p>
 
-### Profiles elsewhere
-
-My blog, mostly covering technical matters, is hosted at [ivdl.co.za](https://ivdl.co.za). I also have an online presence on [LinkedIn](https://www.linkedin.com/in/ivdl/) and [ORCiD](https://orcid.org/0000-0001-9232-9599). 
-
 ### Getting in touch
 
 I am currently based in the Netherlands 🇳🇱. If you'd like to get in touch, send me an email at ian@ivdl.co.za.
