@@ -5,11 +5,11 @@
 
 ### Getting in touch
 
-I am currently based in the Netherlands 🇳🇱. If you'd like to get in touch, send me an email at ian@ivdl.co.za, or connect/follow/message me on [LinkedIn](https://www.linkedin.com/in/ivdl/) 🙂
+I am currently based in the beautiful city of Utrecht, in the Netherlands 🇳🇱. If you'd like to get in touch, send me an email at ian@ivdl.co.za, or connect/follow/message me on [LinkedIn](https://www.linkedin.com/in/ivdl/) 🙂
 
 ### About me
 
-Hi, I’m Ian van der Linde (hence @Ianvdl and [ivdl.co.za](https://ivdl.co.za)). In my current role, I am responsible for running PostgreSQL 24/7 for downtime-sensitive applications in high availability, and working on automation and CI/CD for infrastructure using Puppet and Ansible, and performance monitoring and tuning using custom PostgreSQL extensions and PowerBI. 
+Hi, I’m Ian van der Linde (hence @Ianvdl and [ivdl.co.za](https://ivdl.co.za)). In my current role, I am responsible for running PostgreSQL 24/7 for downtime-sensitive applications in high availability, and working on automation and CI/CD for infrastructure using Puppet and [Ansible](https://github.com/Ianvdl/edb-ansible), and performance monitoring and tuning using a custom PostgreSQL extension and PowerBI. 
 
 Previously, I was responsible for full stack Python/Django software development (including all aspects of HTML/CSS/JS on the frontend), high performance PostgreSQL database administration and Linux system administration (on-premises in the form of bare-metal and containerised applications, and Microsoft Azure cloud services). I also worked with colleagues to establish patent analysis as a key function of the team.
 
