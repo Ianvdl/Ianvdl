@@ -3,9 +3,20 @@
 [Ian's notes](https://ivdl.co.za/) 💻 • [LinkedIn](https://www.linkedin.com/in/ivdl/) 🧳 • [ORCiD](https://orcid.org/0000-0001-9232-9599) 📝 • [Shutterstock](https://www.shutterstock.com/g/Ian+van+der+Linde) 📸 • ian@ivdl.co.za 📧 
 
 
-### Getting in touch
+### Get in touch
 
 I am currently based in the beautiful city of Utrecht, in the Netherlands 🇳🇱. If you'd like to get in touch, send me an email at ian@ivdl.co.za, or connect/follow/message me on [LinkedIn](https://www.linkedin.com/in/ivdl/) 🙂
+
+### Read some of my work
+
+[What do Norway and Namibia have in common? 🇳🇴🇳🇦
+](https://ivdl.co.za/2024/02/12/what-do-norway-and-namibia-have-in-common/)
+
+[Demystifying HTTP with Telnet 📞](https://ivdl.co.za/2024/02/19/demystifying-http-with-telnet/)
+
+[Pretending to be PostgreSQL: Part one 🐘](https://ivdl.co.za/2024/03/02/pretending-to-be-postgresql-part-one-1/)
+
+[The infinitely patient vacuum – a case study of what happens when the PostgreSQL VACUUM never completes 🧹](https://ivdl.co.za/2024/03/27/the-infinitely-patient-vacuum-a-case-study-of-what-happens-when-the-postgresql-vacuum-never-completes/)
 
 ### About me
 
