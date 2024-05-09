@@ -1,17 +1,11 @@
-<h1><center>Ian van der Linde</center></h1>
-<center>PostgreSQL • Linux • Python</center>
+<h2><center>Ian van der Linde: PostgreSQL 🐘 • Linux 🐧 • Python 🐍</center></h2>
 
-### Profiles elsewhere
+[Ian's notes](https://ivdl.co.za/) 💻 • [LinkedIn](https://www.linkedin.com/in/ivdl/) 🧳 • [ORCiD](https://orcid.org/0000-0001-9232-9599) 📝 • [Shutterstock](https://www.shutterstock.com/g/Ian+van+der+Linde) 📸 • ian@ivdl.co.za 📧 
 
-[ivdl.co.za](https://ivdl.co.za/) 💻 Read my blog
 
-[LinkedIn](https://www.linkedin.com/in/ivdl/) 🧳 Connect with me
+### Getting in touch
 
-[ORCiD](https://orcid.org/0000-0001-9232-9599) 📝 Read my research
-
-[Shutterstock](https://www.shutterstock.com/g/Ian+van+der+Linde) 📸 View my photos
-
-ian@ivdl.co.za 📧 Contact me
+I am currently based in the Netherlands 🇳🇱. If you'd like to get in touch, send me an email at ian@ivdl.co.za, or connect/follow/message me on [LinkedIn](https://www.linkedin.com/in/ivdl/) 🙂
 
 ### About me
 
@@ -68,7 +62,3 @@ I have a further interest in machine learning, and completed my master’s degre
     <img height="30" src="./assets/visualstudio-plain.svg" hspace="5" >
     <img height="30" src="./assets/wordpress-plain.svg" hspace="5" >
 </p>
-
-### Getting in touch
-
-I am currently based in the Netherlands 🇳🇱. If you'd like to get in touch, send me an email at ian@ivdl.co.za.
