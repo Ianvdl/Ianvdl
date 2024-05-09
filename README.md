@@ -18,6 +18,7 @@ I am currently based in the beautiful city of Utrecht, in the Netherlands 🇳�
 
 [The infinitely patient vacuum – a case study of what happens when the PostgreSQL VACUUM never completes 🧹](https://ivdl.co.za/2024/03/27/the-infinitely-patient-vacuum-a-case-study-of-what-happens-when-the-postgresql-vacuum-never-completes/)
 
+[A room with a view of the PostgreSQL autovacuum 🪟](https://ivdl.co.za/2024/05/09/a-room-with-a-view-of-the-postgresql-autovacuum/)
 ### About me
 
 Hi, I’m Ian van der Linde (hence @Ianvdl and [ivdl.co.za](https://ivdl.co.za)). In my current role, I am responsible for running PostgreSQL 24/7 for downtime-sensitive applications in high availability, and working on automation and CI/CD for infrastructure using Puppet and [Ansible](https://github.com/Ianvdl/edb-ansible), and performance monitoring and tuning using a custom PostgreSQL extension and PowerBI. 
