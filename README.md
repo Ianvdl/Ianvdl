@@ -9,10 +9,7 @@ I am currently based in the beautiful city of Utrecht, in the Netherlands ðŸ‡³ðŸ
 
 ### Read some of my work
 
-[What do Norway and Namibia have in common?
-](https://ivdl.co.za/2024/02/12/what-do-norway-and-namibia-have-in-common/)
-
-[Demystifying HTTP with Telnet](https://ivdl.co.za/2024/02/19/demystifying-http-with-telnet/)
+#### PostgreSQL
 
 [Pretending to be PostgreSQL: Part one](https://ivdl.co.za/2024/03/02/pretending-to-be-postgresql-part-one-1/)
 
@@ -21,6 +18,15 @@ I am currently based in the beautiful city of Utrecht, in the Netherlands ðŸ‡³ðŸ
 [A room with a view of the PostgreSQL autovacuum](https://ivdl.co.za/2024/05/09/a-room-with-a-view-of-the-postgresql-autovacuum/)
 
 [Estimating the disk space needed for a VACUUM FULL on PostgreSQL](https://ivdl.co.za/2024/05/13/estimating-the-disk-space-needed-for-a-vacuum-full-on-postgresql/)
+
+#### Data science
+
+[What do Norway and Namibia have in common?
+](https://ivdl.co.za/2024/02/12/what-do-norway-and-namibia-have-in-common/)
+
+#### Web development
+
+[Demystifying HTTP with Telnet](https://ivdl.co.za/2024/02/19/demystifying-http-with-telnet/)
 
 ### About me
 
