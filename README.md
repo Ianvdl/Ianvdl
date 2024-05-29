@@ -19,6 +19,8 @@ I am currently based in the beautiful city of Utrecht, in the Netherlands ðŸ‡³ðŸ
 
 [Estimating the disk space needed for a VACUUM FULL on PostgreSQL](https://ivdl.co.za/2024/05/13/estimating-the-disk-space-needed-for-a-vacuum-full-on-postgresql/)
 
+[Achieving a 100x speedup of DELETEs on PostgreSQL](https://ivdl.co.za/2024/05/29/achieving-a-100x-speedup-of-deletes-on-postgresql/)
+
 #### Data science
 
 [What do Norway and Namibia have in common?
