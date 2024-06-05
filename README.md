@@ -2,10 +2,8 @@
 
 [Ian's notes](https://ivdl.co.za/) 💻 • [LinkedIn](https://www.linkedin.com/in/ivdl/) 🧳 • [ORCiD](https://orcid.org/0000-0001-9232-9599) 📝 • [Shutterstock](https://www.shutterstock.com/g/Ian+van+der+Linde) 📸 • ian@ivdl.co.za 📧 
 
-
-### Get in touch
-
-I am currently based in the beautiful city of Utrecht, in the Netherlands 🇳🇱. If you'd like to get in touch, send me an email at ian@ivdl.co.za, or connect/follow/message me on [LinkedIn](https://www.linkedin.com/in/ivdl/) 🙂
+> [!NOTE]
+> I am currently based in the beautiful city of Utrecht, in the Netherlands 🇳🇱. If you'd like to get in touch, send me an email at ian@ivdl.co.za, or connect/follow/message me on [LinkedIn](https://www.linkedin.com/in/ivdl/) 🙂
 
 ### Read some of my work
 
