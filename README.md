@@ -28,6 +28,26 @@
 
 [Demystifying HTTP with Telnet](https://ivdl.co.za/2024/02/19/demystifying-http-with-telnet/)
 
+[Using the Django _meta API to write generalisable code within the confines of the ORM](https://ivdl.co.za/2023/07/07/using-the-django-_meta-api-to-write-generalisable-code-within-the-confines-of-the-orm/)
+
+[Finding the database for a Django model class and instance](https://ivdl.co.za/2023/08/17/finding-the-database-for-a-django-model-class-and-instance/)
+
+[Extending Django templating to create dynamic, nested templates](https://ivdl.co.za/2023/07/08/extending-django-templating-to-create-dynamic-nested-templates/)
+
+[Constructing an automated workflow based on the Django manage.py inspectdb command](https://ivdl.co.za/2023/07/07/constructing-an-automated-workflow-based-on-the-django-manage-py-inspectdb-command/)
+
+#### Mac OS
+
+[Essential, open source Mac apps](https://ivdl.co.za/2024/06/17/essential-mac-apps/)
+
+[Fixing “Waiting to upload” for iCloud in Mac OS Finder](https://ivdl.co.za/2023/08/24/fixing-waiting-to-upload-for-icloud-in-mac-os-finder/)
+
+[How to add an iCloud shortcut to your Mac home folder](https://ivdl.co.za/2023/07/24/how-to-add-an-icloud-shortcut-to-your-mac-home-folder/)
+
+#### Windows
+
+[A look back at some older 16-bit shareware games for Windows](https://ivdl.co.za/2021/10/14/a-look-back-at-some-older-16-bit-shareware-games-for-windows/)
+
 ### About me
 
 Hi, I’m Ian van der Linde (hence @Ianvdl and [ivdl.co.za](https://ivdl.co.za)). In my current role, I am responsible for running PostgreSQL 24/7 for downtime-sensitive applications in high availability, and working on automation and CI/CD for infrastructure using Puppet and [Ansible](https://github.com/Ianvdl/edb-ansible), and performance monitoring and tuning using a custom PostgreSQL extension and PowerBI. 
