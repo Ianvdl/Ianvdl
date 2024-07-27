@@ -5,6 +5,18 @@
 > [!NOTE]
 > I am currently based in the beautiful city of Utrecht, in the Netherlands 🇳🇱. If you'd like to get in touch, send me an email at ian@ivdl.co.za, or connect/follow/message me on [LinkedIn](https://www.linkedin.com/in/ivdl/) 🙂
 
+### About me
+
+Hi, I’m Ian van der Linde (hence @Ianvdl and [ivdl.co.za](https://ivdl.co.za)). I am a senior PostgreSQL engineer. In my current role, I am responsible for running PostgreSQL 24/7 for downtime-sensitive applications in high availability, and working on automation and CI/CD for infrastructure using Puppet and [Ansible](https://github.com/Ianvdl/edb-ansible), and performance monitoring and tuning using a custom PostgreSQL extension and PowerBI. 
+
+Previously, I was responsible for full stack Python/Django software development (including all aspects of HTML/CSS/JS on the frontend), high performance PostgreSQL database administration and Linux system administration (on-premises in the form of bare-metal and containerised applications, and Microsoft Azure cloud services). I also worked with colleagues to establish patent analysis as a key function of the team.
+
+I am also a certified Linux systems administrator and software developer with experience in automation through version control (Git and SVN), orchestration (Rundeck and Ansible) and configuration management (Puppet), programming mainly in C# with ASP.NET and Python with Django. I have also worked in a high performance computing environment in all areas of hardware and software installation and configuration.
+
+I have specialised experience in DSpace repositories, EZProxy configuration and Open Journal System (OJS) administration and debugging.
+
+I have a further interest in machine learning, and completed my master’s degree on the topic of sentiment analysis.
+
 ### Read some of my work
 
 #### PostgreSQL
@@ -47,18 +59,6 @@
 #### Windows
 
 [A look back at some older 16-bit shareware games for Windows](https://ivdl.co.za/2021/10/14/a-look-back-at-some-older-16-bit-shareware-games-for-windows/)
-
-### About me
-
-Hi, I’m Ian van der Linde (hence @Ianvdl and [ivdl.co.za](https://ivdl.co.za)). I am a senior PostgreSQL engineer. In my current role, I am responsible for running PostgreSQL 24/7 for downtime-sensitive applications in high availability, and working on automation and CI/CD for infrastructure using Puppet and [Ansible](https://github.com/Ianvdl/edb-ansible), and performance monitoring and tuning using a custom PostgreSQL extension and PowerBI. 
-
-Previously, I was responsible for full stack Python/Django software development (including all aspects of HTML/CSS/JS on the frontend), high performance PostgreSQL database administration and Linux system administration (on-premises in the form of bare-metal and containerised applications, and Microsoft Azure cloud services). I also worked with colleagues to establish patent analysis as a key function of the team.
-
-I am also a certified Linux systems administrator and software developer with experience in automation through version control (Git and SVN), orchestration (Rundeck and Ansible) and configuration management (Puppet), programming mainly in C# with ASP.NET and Python with Django. I have also worked in a high performance computing environment in all areas of hardware and software installation and configuration.
-
-I have specialised experience in DSpace repositories, EZProxy configuration and Open Journal System (OJS) administration and debugging.
-
-I have a further interest in machine learning, and completed my master’s degree on the topic of sentiment analysis.
 
 ![Ian's github stats](https://github-readme-stats.vercel.app/api?username=Ianvdl&rank_icon=github&show=prs_merged,prs_merged_percentage&hide=commits,issues&theme=graywhite&show_icons=true&hide_rank=true)
 
