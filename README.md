@@ -1,6 +1,6 @@
 <h2><center>Ian van der Linde: PostgreSQL 🐘 • Linux 🐧 • Python 🐍</center></h2>
 
-[Ian's notes](https://ivdl.co.za/) 💻 • [LinkedIn](https://www.linkedin.com/in/ivdl/) 🧳 • [ORCiD](https://orcid.org/0000-0001-9232-9599) 📝 • [Shutterstock](https://www.shutterstock.com/g/Ian+van+der+Linde) 📸 • ian@ivdl.co.za 📧 
+[Ian's notes](https://ivdl.co.za/) 💻 • [BlueSky](https://bsky.app/profile/ianvanderlinde.bsky.social) 🦋 • [LinkedIn](https://www.linkedin.com/in/ivdl/) 🧳 • [ORCiD](https://orcid.org/0000-0001-9232-9599) 📝 • [Shutterstock](https://www.shutterstock.com/g/Ian+van+der+Linde) 📸 • ian@ivdl.co.za 📧 
 
 ![IMG_5747 2](https://github.com/user-attachments/assets/953d7272-eecb-4d9f-856c-408672b05869)
 
