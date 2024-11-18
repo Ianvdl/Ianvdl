@@ -33,6 +33,8 @@ I have a further interest in machine learning, and completed my master’s degre
 
 [Achieving a 100x speedup of DELETEs on PostgreSQL](https://ivdl.co.za/2024/05/29/achieving-a-100x-speedup-of-deletes-on-postgresql/)
 
+[PostgreSQL streaming replication characteristics on UNLOGGED tables](https://ivdl.co.za/2024/11/04/what-happens-if-you-enable-logging-on-an-unlogged-postgresql-table-with-streaming-replication/)
+
 #### Data science
 
 [What do Norway and Namibia have in common?
