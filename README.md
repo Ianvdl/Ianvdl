@@ -35,6 +35,8 @@ I have a further interest in machine learning, and completed my master’s degre
 
 [PostgreSQL streaming replication characteristics on UNLOGGED tables](https://ivdl.co.za/2024/11/04/what-happens-if-you-enable-logging-on-an-unlogged-postgresql-table-with-streaming-replication/)
 
+[A quickstart guide to CloudNativePG on Ubuntu and Mac OS](https://ivdl.co.za/2024/11/21/a-quickstart-guide-to-cloudnativepg-on-ubuntu-and-mac-os/)
+
 #### Data science
 
 [What do Norway and Namibia have in common?
