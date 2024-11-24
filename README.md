@@ -23,7 +23,8 @@ I have a further interest in machine learning, and completed my master’s degre
 
 #### PostgreSQL
 
-[Pretending to be PostgreSQL: Part one](https://ivdl.co.za/2024/03/02/pretending-to-be-postgresql-part-one-1/)
+[Pretending to be PostgreSQL: Part one - the server handshake](https://ivdl.co.za/2024/03/02/pretending-to-be-postgresql-part-one-1/)
+[Pretending to be PostgreSQL: Part two – responding to queries](https://ivdl.co.za/2024/11/24/pretending-to-be-postgresql-part-two-responding-to-queries/)
 
 [The infinitely patient vacuum – a case study of what happens when the PostgreSQL VACUUM never completes](https://ivdl.co.za/2024/03/27/the-infinitely-patient-vacuum-a-case-study-of-what-happens-when-the-postgresql-vacuum-never-completes/)
 
