@@ -109,3 +109,5 @@ I have a further interest in machine learning, and completed my master’s degre
     <img height="30" src="./assets/visualstudio-plain.svg" hspace="5" >
     <img height="30" src="./assets/wordpress-plain.svg" hspace="5" >
 </p>
+
+[![Ian van der Linde profile views](https://u8views.com/api/v1/github/profiles/1923157/views/day-week-month-total-count.svg)](https://u8views.com/github/Ianvdl)
