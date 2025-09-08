@@ -7,15 +7,11 @@
 
 ### About me
 
-Hi, I’m Ian van der Linde (hence @Ianvdl and [ivdl.co.za](https://ivdl.co.za)). I am a senior PostgreSQL engineer. In my current role, I am responsible for running PostgreSQL 24/7 for downtime-sensitive applications in high availability, and working on automation and CI/CD for infrastructure using Puppet and [Ansible](https://github.com/Ianvdl/edb-ansible), and performance monitoring and tuning using a custom PostgreSQL extension and PowerBI. 
+Hi, I’m Ian van der Linde (hence @Ianvdl and [ivdl.co.za](https://ivdl.co.za)). I am a Senior Mission Critical Engineer and Technical Lead at Conclusion Mission Critical in Utrecht, specialising in PostgreSQL and EnterpriseDB services. My work focuses on query performance optimisation, advanced database monitoring, and infrastructure automation using tools such as Puppet and Ansible, all in support of mission critical systems that demand continuous operation.
 
-Previously, I was responsible for full stack Python/Django software development (including all aspects of HTML/CSS/JS on the frontend), high performance PostgreSQL database administration and Linux system administration (on-premises in the form of bare-metal and containerised applications, and Microsoft Azure cloud services). I also worked with colleagues to establish patent analysis as a key function of the team.
+My career began in academic computing at the University of the Free State, where I worked as a high-performance computing engineer responsible for deploying and maintaining clustered research infrastructure. At Stellenbosch University, I expanded my expertise through designing and managing large PostgreSQL systems for bibliometric and scientometric research. This included integrating large datasets such as PATSTAT and Wikidata, implementing monitoring frameworks with Telegraf, Prometheus, and Grafana, and guiding the database team’s transition to agile project methodologies.
 
-I am also a certified Linux systems administrator and software developer with experience in automation through version control (Git and SVN), orchestration (Rundeck and Ansible) and configuration management (Puppet), programming mainly in C# with ASP.NET and Python with Django. I have also worked in a high performance computing environment in all areas of hardware and software installation and configuration.
-
-I have specialised experience in DSpace repositories, EZProxy configuration and Open Journal System (OJS) administration and debugging.
-
-I have a further interest in machine learning, and completed my master’s degree on the topic of sentiment analysis.
+I later translated this research-driven expertise into enterprise IT. After founding Descry Technologies, I took on senior PostgreSQL roles at FairPlay Engineering and eventually at Conclusion Mission Critical, where I am currently responsible for uptime, resilience, and scalability in production environments. My M.Sc. research in sentiment analysis, along with publications in analytics and patent informatics, complements my technical practice with a grounding in data science and empirical decision-making. Today, I integrate research-grade systems design with the operational demands of enterprise environments, ensuring both performance and reliability at scale.
 
 ### Read some of my work
 
