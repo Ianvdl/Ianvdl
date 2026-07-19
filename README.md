@@ -1,6 +1,6 @@
 <h2><center>Ian van der Linde: PostgreSQL 🐘 • Linux 🐧 • Python 🐍</center></h2>
 
-[Ian's notes](https://ivdl.co.za/) 💻 • [Bluesky](https://bsky.app/profile/ivdl.co.za) 🦋 • [LinkedIn](https://www.linkedin.com/in/ivdl/) 🧳 • [ORCiD](https://orcid.org/0000-0001-9232-9599) 📝 
+[Ian's notes](https://ivdl.co.za/) 💻 • [LinkedIn](https://www.linkedin.com/in/ivdl/) 🧳 • [ORCiD](https://orcid.org/0000-0001-9232-9599) 📝 
 
 ### Read some of my work
 
@@ -24,8 +24,7 @@
 
 #### Data science
 
-[What do Norway and Namibia have in common?
-](https://ivdl.co.za/2024/02/12/what-do-norway-and-namibia-have-in-common/)
+[What do Norway and Namibia have in common?](https://ivdl.co.za/2024/02/12/what-do-norway-and-namibia-have-in-common/)
 
 #### Web development
 
@@ -50,7 +49,3 @@
 #### Windows
 
 [A look back at some older 16-bit shareware games for Windows](https://ivdl.co.za/2021/10/14/a-look-back-at-some-older-16-bit-shareware-games-for-windows/)
-
----
-
-[![Ian van der Linde profile views](https://u8views.com/api/v1/github/profiles/1923157/views/day-week-month-total-count.svg)](https://u8views.com/github/Ianvdl)
