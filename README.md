@@ -2,6 +2,10 @@
 
 [Ian's notes](https://ivdl.co.za/) 💻 • [LinkedIn](https://www.linkedin.com/in/ivdl/) 🧳 • [ORCiD](https://orcid.org/0000-0001-9232-9599) 📝 
 
+I am a Senior PostgreSQL Engineer at Adyen. Prior to this, I was employed as a Senior Mission Critical engineer and Tech Lead at Conclusion Mission Critical, with a focus on highly resilient PostgreSQL clusters.
+
+I have a background in computer science, high performance computing and machine learning. This has guided my career interests towards profiling and tuning, and fault tolerant architecture.
+
 ### Read some of my work
 
 #### PostgreSQL
